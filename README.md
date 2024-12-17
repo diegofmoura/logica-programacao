@@ -8,3 +8,5 @@
 - Aula 4
 - Aula 5
 - Aula 6
+- Aula 7
+- Aula 8
